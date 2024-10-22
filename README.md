@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Chandani
+- Currently working at EY
 - 👀 I’m interested in web development role.
 - 🌱 I’m currently learning React Js 
 - 💞️ I’m looking to collaborate on open source project.
